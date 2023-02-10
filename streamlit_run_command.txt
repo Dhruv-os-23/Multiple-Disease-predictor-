@@ -1,0 +1,1 @@
+streamlit run "/home/dhruv/Desktop/multiple_prediction_system/multiple_disease_pred.py"
